@@ -1,0 +1,16 @@
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\SampleAPIConsoleApp.exe.config
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\SampleAPIConsoleApp.exe
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\SampleAPIConsoleApp.pdb
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\FinOpsRestAPILibrary.dll
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\MyAPILibrary.dll
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\RestSharp.dll
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\MyAPILibrary.pdb
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\bin\Debug\RestSharp.xml
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.csproj.CopyComplete
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.exe
+C:\Users\tejalnu\source\repos\SampleAPIConsoleApp\SampleAPIConsoleApp\obj\Debug\SampleAPIConsoleApp.pdb
