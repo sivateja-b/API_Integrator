@@ -1,5 +1,7 @@
 NOTE: All this code is available in github samples folder of repository.
+
 **NOTE!! Your solution will run but it might be debuggable due to the DLL obfuscations. The supporting debugging is work in progress, look out for updates.**
+
 1.	Create a .NET framework class library project and add the DLL references from github.
 ![image](https://user-images.githubusercontent.com/63949792/162920056-429d8fd3-4f37-4714-9dad-43b9ddfe860d.png)
 
